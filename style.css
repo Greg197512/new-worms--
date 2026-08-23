@@ -186,14 +186,14 @@
     position:absolute;inset:0;
     background-image:url('hero-banner.jpg');
     background-size:cover;background-position:8% 46%;
-    opacity:0.7;
+    opacity:0.9;
   }
   @media (max-width:600px){
     .hero-bg{background-position:2% 46%;}
   }
   .hero-fade{
     position:absolute;inset:0;
-    background:linear-gradient(180deg, rgba(35,37,41,0.35) 0%, rgba(35,37,41,0.55) 45%, rgba(28,27,25,0.96) 92%);
+    background:linear-gradient(180deg, rgba(35,37,41,0.14) 0%, rgba(35,37,41,0.32) 45%, rgba(28,27,25,0.88) 92%);
   }
   .hero-inner{position:relative;z-index:2;width:100%;padding:120px 0 64px;}
   .hero h1{
