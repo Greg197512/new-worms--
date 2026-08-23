@@ -17,10 +17,10 @@ const translations = {
     "intro.eyebrow":"OVER ONS",
     "intro.title":"Opslagruimte in Zwaanshoek, gebouwd om te vertrouwen",
     "intro.p1":"Opslag Zwaanshoek is een kleinschalige opslaglocatie met individuele garages, opslagboxen en bergingen in een geïsoleerd, stalen bedrijfspand. Elke unit heeft een eigen afsluitbare deur, is droog en tochtvrij, en is voorzien van verlichting.",
-    "intro.p2":"Het terrein is dag en nacht bereikbaar en staat onder camerabewaking. Je regelt de huur snel en zonder omwegen, met persoonlijk contact via Damian voor al je vragen.",
+    "intro.p2":"Het terrein is 6 dagen per week bereikbaar, van 07:00 tot 18:00 uur, en staat onder camerabewaking. Je regelt de huur snel en zonder omwegen, met persoonlijk contact via Damian voor al je vragen.",
     "intro.fact1.k":"Locatie","intro.fact1.v":"Zwaanshoek, NH",
     "intro.fact2.k":"Type units","intro.fact2.v":"Garage · Box · Berging",
-    "intro.fact3.k":"Toegang","intro.fact3.v":"24/7",
+    "intro.fact3.k":"Toegang","intro.fact3.v":"6 dgn · 07–18u",
     "intro.fact4.k":"Bewaking","intro.fact4.v":"Camera",
 
     "unitsprev.eyebrow":"01 — Units","unitsprev.title":"Drie soorten opslag",
@@ -32,7 +32,7 @@ const translations = {
 
     "benefits.eyebrow":"02 — Waarom hier huren","benefits.title":"Geregeld voordat je het weet",
     "benefit1.title":"Direct beschikbaar","benefit1.desc":"Vandaag bezichtigen, deze week de sleutel in handen.",
-    "benefit2.title":"Directe toegang","benefit2.desc":"Kom en ga wanneer het jou uitkomt, zonder je vooraf aan te melden.",
+    "benefit2.title":"Ruime openingstijden","benefit2.desc":"6 dagen per week open, van 07:00 tot 18:00 uur, zonder afspraak vooraf.",
     "benefit3.title":"24/7 monitoring","benefit3.desc":"Het hele terrein staat onder cameratoezicht, dag en nacht.",
 
     "galleryprev.eyebrow":"03 — Een kijkje binnen","galleryprev.title":"Zo ziet jouw unit eruit",
@@ -100,10 +100,10 @@ const translations = {
     "intro.eyebrow":"ABOUT US",
     "intro.title":"Storage in Zwaanshoek, built to be trusted",
     "intro.p1":"Storage Zwaanshoek is a small-scale storage facility with individual garages, storage boxes and sheds inside an insulated steel building. Every unit has its own lockable door, stays dry and draught-free, and includes lighting.",
-    "intro.p2":"The site is accessible day and night and is monitored by CCTV. Renting is arranged quickly and without hassle, with personal contact through Damian for any questions.",
+    "intro.p2":"The site is accessible 6 days a week, from 7:00 to 18:00, and is monitored by CCTV. Renting is arranged quickly and without hassle, with personal contact through Damian for any questions.",
     "intro.fact1.k":"Location","intro.fact1.v":"Zwaanshoek, NH",
     "intro.fact2.k":"Unit types","intro.fact2.v":"Garage · Box · Shed",
-    "intro.fact3.k":"Access","intro.fact3.v":"24/7",
+    "intro.fact3.k":"Access","intro.fact3.v":"6 days · 7am–6pm",
     "intro.fact4.k":"Security","intro.fact4.v":"CCTV",
 
     "unitsprev.eyebrow":"01 — Units","unitsprev.title":"Three types of storage",
@@ -115,7 +115,7 @@ const translations = {
 
     "benefits.eyebrow":"02 — Why rent here","benefits.title":"Sorted before you know it",
     "benefit1.title":"Instantly available","benefit1.desc":"View today, get your key this week.",
-    "benefit2.title":"Direct access","benefit2.desc":"Come and go whenever suits you, no need to check in first.",
+    "benefit2.title":"Generous opening hours","benefit2.desc":"Open 6 days a week, from 7:00 to 18:00, no need to check in first.",
     "benefit3.title":"24/7 monitoring","benefit3.desc":"The whole site is under CCTV surveillance, day and night.",
 
     "galleryprev.eyebrow":"03 — A look inside","galleryprev.title":"This is what your unit looks like",
@@ -180,10 +180,10 @@ const translations = {
     "intro.eyebrow":"O NAS",
     "intro.title":"Powierzchnia magazynowa w Zwaanshoek, zbudowana na zaufaniu",
     "intro.p1":"Opslag Zwaanshoek to niewielki obiekt magazynowy z indywidualnymi garażami, komórkami i pomieszczeniami gospodarczymi w ocieplonym, stalowym budynku. Każdy boks ma własne zamykane drzwi, jest suchy, wolny od przeciągów i wyposażony w oświetlenie.",
-    "intro.p2":"Teren jest dostępny dzień i noc oraz objęty monitoringiem. Wynajem załatwisz szybko i bez zbędnych formalności, w bezpośrednim kontakcie z Damianem.",
+    "intro.p2":"Teren jest dostępny 6 dni w tygodniu, od 7:00 do 18:00, oraz objęty monitoringiem. Wynajem załatwisz szybko i bez zbędnych formalności, w bezpośrednim kontakcie z Damianem.",
     "intro.fact1.k":"Lokalizacja","intro.fact1.v":"Zwaanshoek, NH",
     "intro.fact2.k":"Rodzaje boksów","intro.fact2.v":"Garaż · Komórka · Pomieszczenie",
-    "intro.fact3.k":"Dostęp","intro.fact3.v":"24/7",
+    "intro.fact3.k":"Dostęp","intro.fact3.v":"6 dni · 7–18",
     "intro.fact4.k":"Ochrona","intro.fact4.v":"Monitoring",
 
     "unitsprev.eyebrow":"01 — Boksy","unitsprev.title":"Trzy rodzaje magazynu",
@@ -195,7 +195,7 @@ const translations = {
 
     "benefits.eyebrow":"02 — Dlaczego warto tu wynająć","benefits.title":"Załatwione, zanim się obejrzysz",
     "benefit1.title":"Dostępne od ręki","benefit1.desc":"Obejrzyj dziś, klucz odbierzesz w tym tygodniu.",
-    "benefit2.title":"Dostęp natychmiastowy","benefit2.desc":"Przychodź i wychodź, kiedy chcesz, bez wcześniejszego zgłaszania się.",
+    "benefit2.title":"Szerokie godziny otwarcia","benefit2.desc":"Otwarte 6 dni w tygodniu, od 7:00 do 18:00, bez wcześniejszego zgłaszania się.",
     "benefit3.title":"Monitoring 24/7","benefit3.desc":"Cały teren objęty jest monitoringiem, dzień i noc.",
 
     "galleryprev.eyebrow":"03 — Zajrzyj do środka","galleryprev.title":"Tak wygląda Twój boks",
@@ -260,10 +260,10 @@ const translations = {
     "intro.eyebrow":"ÜBER UNS",
     "intro.title":"Lagerraum in Zwaanshoek, gebaut um vertraut zu werden",
     "intro.p1":"Lager Zwaanshoek ist eine kleine Lagerstätte mit einzelnen Garagen, Lagerboxen und Abstellräumen in einem isolierten Stahlgebäude. Jede Einheit hat eine eigene abschließbare Tür, ist trocken, zugfrei und beleuchtet.",
-    "intro.p2":"Das Gelände ist Tag und Nacht zugänglich und videoüberwacht. Die Miete wird schnell und unkompliziert geregelt, mit persönlichem Kontakt über Damian für alle Fragen.",
+    "intro.p2":"Das Gelände ist 6 Tage die Woche zugänglich, von 7:00 bis 18:00 Uhr, und videoüberwacht. Die Miete wird schnell und unkompliziert geregelt, mit persönlichem Kontakt über Damian für alle Fragen.",
     "intro.fact1.k":"Lage","intro.fact1.v":"Zwaanshoek, NH",
     "intro.fact2.k":"Einheiten","intro.fact2.v":"Garage · Box · Abstellraum",
-    "intro.fact3.k":"Zugang","intro.fact3.v":"24/7",
+    "intro.fact3.k":"Zugang","intro.fact3.v":"6 Tage · 7–18 Uhr",
     "intro.fact4.k":"Sicherheit","intro.fact4.v":"Video",
 
     "unitsprev.eyebrow":"01 — Einheiten","unitsprev.title":"Drei Arten von Lagerraum",
@@ -275,7 +275,7 @@ const translations = {
 
     "benefits.eyebrow":"02 — Warum hier mieten","benefits.title":"Geregelt, bevor du dich versiehst",
     "benefit1.title":"Sofort verfügbar","benefit1.desc":"Heute besichtigen, diese Woche den Schlüssel in der Hand.",
-    "benefit2.title":"Direkter Zugang","benefit2.desc":"Komm und geh, wann es dir passt, ohne dich vorher anzumelden.",
+    "benefit2.title":"Großzügige Öffnungszeiten","benefit2.desc":"6 Tage die Woche geöffnet, von 7:00 bis 18:00 Uhr, ohne vorherige Anmeldung.",
     "benefit3.title":"24/7 Überwachung","benefit3.desc":"Das gesamte Gelände wird Tag und Nacht per Video überwacht.",
 
     "galleryprev.eyebrow":"03 — Ein Blick hinein","galleryprev.title":"So sieht deine Einheit aus",
@@ -340,10 +340,10 @@ const translations = {
     "intro.eyebrow":"À PROPOS",
     "intro.title":"Stockage à Zwaanshoek, pensé pour la confiance",
     "intro.p1":"Stockage Zwaanshoek est un site de stockage à taille humaine avec des garages, box de stockage et remises individuels dans un bâtiment en acier isolé. Chaque unité a sa propre porte verrouillable, reste sèche et à l'abri des courants d'air, et dispose d'un éclairage.",
-    "intro.p2":"Le site est accessible jour et nuit et sous vidéosurveillance. La location se règle rapidement et simplement, avec un contact personnel via Damian pour toutes vos questions.",
+    "intro.p2":"Le site est accessible 6 jours sur 7, de 7h à 18h, et sous vidéosurveillance. La location se règle rapidement et simplement, avec un contact personnel via Damian pour toutes vos questions.",
     "intro.fact1.k":"Emplacement","intro.fact1.v":"Zwaanshoek, NH",
     "intro.fact2.k":"Types d'unités","intro.fact2.v":"Garage · Box · Remise",
-    "intro.fact3.k":"Accès","intro.fact3.v":"24/7",
+    "intro.fact3.k":"Accès","intro.fact3.v":"6j · 7h–18h",
     "intro.fact4.k":"Sécurité","intro.fact4.v":"Vidéo",
 
     "unitsprev.eyebrow":"01 — Unités","unitsprev.title":"Trois types de stockage",
@@ -355,7 +355,7 @@ const translations = {
 
     "benefits.eyebrow":"02 — Pourquoi louer ici","benefits.title":"Réglé en un rien de temps",
     "benefit1.title":"Disponible immédiatement","benefit1.desc":"Visitez aujourd'hui, récupérez votre clé cette semaine.",
-    "benefit2.title":"Accès direct","benefit2.desc":"Venez et repartez quand vous le souhaitez, sans vous annoncer.",
+    "benefit2.title":"Larges horaires d'ouverture","benefit2.desc":"Ouvert 6 jours sur 7, de 7h à 18h, sans vous annoncer à l'avance.",
     "benefit3.title":"Surveillance 24/7","benefit3.desc":"L'ensemble du site est sous vidéosurveillance, jour et nuit.",
 
     "galleryprev.eyebrow":"03 — Un aperçu de l'intérieur","galleryprev.title":"Voici à quoi ressemble votre unité",
@@ -541,8 +541,14 @@ function initBlockReveal(){
     for(let r = 0; r < rows; r++){
       for(let c = 0; c < cols; c++){
         const span = document.createElement('span');
-        const delay = (r + c) * 0.035 + Math.random() * 0.05;
+        const delay = (r + c) * 0.03 + Math.random() * 0.06;
+        const dx = 100 + Math.random() * 160;
+        const dy = -50 - Math.random() * 110;
+        const rot = 6 + Math.random() * 26;
         span.style.animationDelay = delay + 's';
+        span.style.setProperty('--dx', dx + 'px');
+        span.style.setProperty('--dy', dy + 'px');
+        span.style.setProperty('--rot', rot + 'deg');
         cover.appendChild(span);
       }
     }
