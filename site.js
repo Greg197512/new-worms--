@@ -12,7 +12,7 @@ const translations = {
     "hero.tagline":"Jouw veilige plek voor alles",
     "hero.desc":"Garages, opslagboxen en bergingen dicht bij huis. Reserveer vandaag nog en zet morgen je spullen weg.",
     "hero.cta1":"Bekijk beschikbare units","hero.cta2":"Direct contact",
-    "hero.stat1":"Camerabewaking","hero.stat2num":"Direct","hero.stat2":"Beschikbaar","hero.stat3num":"Eigen","hero.stat3":"Sleutel &amp; slot",
+    "hero.stat1num":"6 dgn","hero.stat1":"Toegankelijk 7–18u","hero.stat2num":"Direct","hero.stat2":"Beschikbaar","hero.stat3num":"Eigen","hero.stat3":"Sleutel &amp; slot",
 
     "intro.eyebrow":"OVER ONS",
     "intro.title":"Opslagruimte in Zwaanshoek, gebouwd om te vertrouwen",
@@ -33,7 +33,7 @@ const translations = {
     "benefits.eyebrow":"02 — Waarom hier huren","benefits.title":"Geregeld voordat je het weet",
     "benefit1.title":"Direct beschikbaar","benefit1.desc":"Vandaag bezichtigen, deze week de sleutel in handen.",
     "benefit2.title":"Ruime openingstijden","benefit2.desc":"6 dagen per week open, van 07:00 tot 18:00 uur, zonder afspraak vooraf.",
-    "benefit3.title":"24/7 monitoring","benefit3.desc":"Het hele terrein staat onder cameratoezicht, dag en nacht.",
+    "benefit3.title":"Cameratoezicht","benefit3.desc":"Het hele terrein staat onder cameratoezicht.",
 
     "galleryprev.eyebrow":"03 — Een kijkje binnen","galleryprev.title":"Zo ziet jouw unit eruit",
     "galleryprev.link":"Bekijk de volledige galerij →",
@@ -95,7 +95,7 @@ const translations = {
     "hero.tagline":"Your safe place for everything",
     "hero.desc":"Garages, storage boxes and sheds close to home. Reserve today and move your things in tomorrow.",
     "hero.cta1":"View available units","hero.cta2":"Get in touch",
-    "hero.stat1":"CCTV monitoring","hero.stat2num":"Instant","hero.stat2":"Availability","hero.stat3num":"Your own","hero.stat3":"Key &amp; lock",
+    "hero.stat1num":"6 days","hero.stat1":"Access 7am–6pm","hero.stat2num":"Instant","hero.stat2":"Availability","hero.stat3num":"Your own","hero.stat3":"Key &amp; lock",
 
     "intro.eyebrow":"ABOUT US",
     "intro.title":"Storage in Zwaanshoek, built to be trusted",
@@ -116,7 +116,7 @@ const translations = {
     "benefits.eyebrow":"02 — Why rent here","benefits.title":"Sorted before you know it",
     "benefit1.title":"Instantly available","benefit1.desc":"View today, get your key this week.",
     "benefit2.title":"Generous opening hours","benefit2.desc":"Open 6 days a week, from 7:00 to 18:00, no need to check in first.",
-    "benefit3.title":"24/7 monitoring","benefit3.desc":"The whole site is under CCTV surveillance, day and night.",
+    "benefit3.title":"CCTV monitoring","benefit3.desc":"The whole site is under CCTV surveillance.",
 
     "galleryprev.eyebrow":"03 — A look inside","galleryprev.title":"This is what your unit looks like",
     "galleryprev.link":"View the full gallery →",
@@ -175,7 +175,7 @@ const translations = {
     "hero.tagline":"Twoje bezpieczne miejsce na wszystko",
     "hero.desc":"Garaże, komórki i boksy blisko domu. Zarezerwuj dziś, a jutro przewieź swoje rzeczy.",
     "hero.cta1":"Zobacz dostępne boksy","hero.cta2":"Skontaktuj się",
-    "hero.stat1":"Monitoring 24/7","hero.stat2num":"Od ręki","hero.stat2":"Dostępność","hero.stat3num":"Własny","hero.stat3":"Klucz i zamek",
+    "hero.stat1num":"6 dni","hero.stat1":"Dostęp 7–18","hero.stat2num":"Od ręki","hero.stat2":"Dostępność","hero.stat3num":"Własny","hero.stat3":"Klucz i zamek",
 
     "intro.eyebrow":"O NAS",
     "intro.title":"Powierzchnia magazynowa w Zwaanshoek, zbudowana na zaufaniu",
@@ -196,7 +196,7 @@ const translations = {
     "benefits.eyebrow":"02 — Dlaczego warto tu wynająć","benefits.title":"Załatwione, zanim się obejrzysz",
     "benefit1.title":"Dostępne od ręki","benefit1.desc":"Obejrzyj dziś, klucz odbierzesz w tym tygodniu.",
     "benefit2.title":"Szerokie godziny otwarcia","benefit2.desc":"Otwarte 6 dni w tygodniu, od 7:00 do 18:00, bez wcześniejszego zgłaszania się.",
-    "benefit3.title":"Monitoring 24/7","benefit3.desc":"Cały teren objęty jest monitoringiem, dzień i noc.",
+    "benefit3.title":"Monitoring wizyjny","benefit3.desc":"Cały teren objęty jest monitoringiem.",
 
     "galleryprev.eyebrow":"03 — Zajrzyj do środka","galleryprev.title":"Tak wygląda Twój boks",
     "galleryprev.link":"Zobacz pełną galerię →",
@@ -255,7 +255,7 @@ const translations = {
     "hero.tagline":"Dein sicherer Platz für alles",
     "hero.desc":"Garagen, Lagerboxen und Abstellräume in deiner Nähe. Heute reservieren, morgen einlagern.",
     "hero.cta1":"Verfügbare Einheiten ansehen","hero.cta2":"Kontakt aufnehmen",
-    "hero.stat1":"Videoüberwachung","hero.stat2num":"Sofort","hero.stat2":"Verfügbar","hero.stat3num":"Eigener","hero.stat3":"Schlüssel &amp; Schloss",
+    "hero.stat1num":"6 Tage","hero.stat1":"Zugang 7–18 Uhr","hero.stat2num":"Sofort","hero.stat2":"Verfügbar","hero.stat3num":"Eigener","hero.stat3":"Schlüssel &amp; Schloss",
 
     "intro.eyebrow":"ÜBER UNS",
     "intro.title":"Lagerraum in Zwaanshoek, gebaut um vertraut zu werden",
@@ -276,7 +276,7 @@ const translations = {
     "benefits.eyebrow":"02 — Warum hier mieten","benefits.title":"Geregelt, bevor du dich versiehst",
     "benefit1.title":"Sofort verfügbar","benefit1.desc":"Heute besichtigen, diese Woche den Schlüssel in der Hand.",
     "benefit2.title":"Großzügige Öffnungszeiten","benefit2.desc":"6 Tage die Woche geöffnet, von 7:00 bis 18:00 Uhr, ohne vorherige Anmeldung.",
-    "benefit3.title":"24/7 Überwachung","benefit3.desc":"Das gesamte Gelände wird Tag und Nacht per Video überwacht.",
+    "benefit3.title":"Videoüberwachung","benefit3.desc":"Das gesamte Gelände wird per Video überwacht.",
 
     "galleryprev.eyebrow":"03 — Ein Blick hinein","galleryprev.title":"So sieht deine Einheit aus",
     "galleryprev.link":"Zur vollständigen Galerie →",
@@ -335,7 +335,7 @@ const translations = {
     "hero.tagline":"Votre endroit sûr pour tout",
     "hero.desc":"Garages, box de stockage et remises près de chez vous. Réservez aujourd'hui, déménagez demain.",
     "hero.cta1":"Voir les unités disponibles","hero.cta2":"Nous contacter",
-    "hero.stat1":"Vidéosurveillance","hero.stat2num":"Immédiate","hero.stat2":"Disponibilité","hero.stat3num":"Votre propre","hero.stat3":"Clé &amp; cadenas",
+    "hero.stat1num":"6 jours","hero.stat1":"Accès 7h–18h","hero.stat2num":"Immédiate","hero.stat2":"Disponibilité","hero.stat3num":"Votre propre","hero.stat3":"Clé &amp; cadenas",
 
     "intro.eyebrow":"À PROPOS",
     "intro.title":"Stockage à Zwaanshoek, pensé pour la confiance",
@@ -356,7 +356,7 @@ const translations = {
     "benefits.eyebrow":"02 — Pourquoi louer ici","benefits.title":"Réglé en un rien de temps",
     "benefit1.title":"Disponible immédiatement","benefit1.desc":"Visitez aujourd'hui, récupérez votre clé cette semaine.",
     "benefit2.title":"Larges horaires d'ouverture","benefit2.desc":"Ouvert 6 jours sur 7, de 7h à 18h, sans vous annoncer à l'avance.",
-    "benefit3.title":"Surveillance 24/7","benefit3.desc":"L'ensemble du site est sous vidéosurveillance, jour et nuit.",
+    "benefit3.title":"Vidéosurveillance","benefit3.desc":"L'ensemble du site est sous vidéosurveillance.",
 
     "galleryprev.eyebrow":"03 — Un aperçu de l'intérieur","galleryprev.title":"Voici à quoi ressemble votre unité",
     "galleryprev.link":"Voir la galerie complète →",
