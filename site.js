@@ -535,6 +535,20 @@ function initHeroParallax(){
   update();
 }
 
+function initBlockReveal(){
+  document.querySelectorAll('.block-cover').forEach(cover=>{
+    const cols = 10, rows = 6;
+    for(let r = 0; r < rows; r++){
+      for(let c = 0; c < cols; c++){
+        const span = document.createElement('span');
+        const delay = (r + c) * 0.035 + Math.random() * 0.05;
+        span.style.animationDelay = delay + 's';
+        cover.appendChild(span);
+      }
+    }
+  });
+}
+
 function initMagneticButtons(){
   document.querySelectorAll('.btn-primary').forEach(btn=>{
     btn.addEventListener('mousemove', (e)=>{
@@ -552,6 +566,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
   initNavToggle();
   initReveal();
   initLightbox();
+  initBlockReveal();
   initScrollProgress();
   initHeroParallax();
   initMagneticButtons();

@@ -643,3 +643,23 @@
   box-shadow:0 30px 60px -20px rgba(0,0,0,.6);
   transform:none !important;
 }
+
+/* ---------- BLOCK REVEAL (background enters as tiles) ---------- */
+.block-cover{
+  position:absolute;inset:0;z-index:1;
+  display:grid;grid-template-columns:repeat(10,1fr);grid-template-rows:repeat(6,1fr);
+  pointer-events:none;
+}
+.block-cover span{
+  background:var(--anthracite);
+  transform:scale(1);opacity:1;
+  animation:blockReveal .6s cubic-bezier(.3,.7,.3,1) forwards;
+}
+@keyframes blockReveal{
+  0%{transform:scale(1);opacity:1;}
+  55%{transform:scale(1.05);opacity:1;}
+  100%{transform:scale(0);opacity:0;}
+}
+@media (prefers-reduced-motion: reduce){
+  .block-cover{display:none;}
+}
